@@ -8,6 +8,8 @@ Go to the [Releases page](https://github.com/agrear/re4-treasure-optimizer/relea
 
 ## How To
 
+![Application screenshot](screenshots/app.png)
+
 Select the available gems and treasures by left clicking to add or right clicking to remove. Once you click the 'Optimize' button the treasures and their allocated gems are shown below. You can hover over each result to get details about the total value and bonus.
 
 If you only want to sell fully socketed treasures disable the 'Allow empty sockets' option. Additionally you can also optimize for maximum bonus (multiplier) rather than value by selecting a different objective function.
